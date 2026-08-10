@@ -7,7 +7,7 @@ letters = "Hello World"
 print(letters.lower())
 
 # Question no.2: Given the "  python  " , remove the extra spaces from both sides and print the result.
-text = "  python  "
+text = "  python "
 print(text.strip())
 
 # Question no.3: Replace "Java" with "Python" in the string "I love Java"
